@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>AS_IRV</name>
+  <icon>AS_IRV.png</icon>
+  <connections>
+
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+
+  </svg:svg>
+</shape>
