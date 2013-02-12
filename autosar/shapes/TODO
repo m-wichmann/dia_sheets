@@ -3,3 +3,4 @@ TODO:
 * ECUInstance
 * SWC, Runnable, SA SWC, IRV, Composition
 * SPEM Notation
+* change S/R Ports for more "white space": "1,1 1,9 9,5" -> "2,2 2,8 8,5"
