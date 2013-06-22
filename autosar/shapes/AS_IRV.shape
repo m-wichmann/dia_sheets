@@ -5,14 +5,21 @@
     <icon>AS_IRV.png</icon>
 
     <connections>
-
+        <point x="0" y="10" />
+        <point x="10" y="10" />
+        <point x="20" y="10" />
+        <point x="0" y="12.5" />
+        <point x="20" y="12.5" />
+        <point x="0" y="15" />
+        <point x="10" y="15" />
+        <point x="20" y="15" />
     </connections>
 
     <aspectratio type="free"/>
 
-    <textbox x1="1" y1="0" x2="19" y2="10" align="left"/>
+    <textbox x1="1" y1="0" x2="19" y2="9.5" align="left"/>
 
     <svg:svg width="20" height="15">
-        <svg:rect x="0" y="10.5" width="20" height="5" style="fill: default" /> 
+        <svg:rect x="0" y="10" width="20" height="5" style="fill: default" /> 
     </svg:svg>
 </shape>
