@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
-  <name>AS_IRV</name>
-  <icon>AS_IRV.png</icon>
-  <connections>
 
-  </connections>
-  <aspectratio type="fixed"/>
-  <svg:svg>
+    <name>AS_IRV</name>
+    <icon>AS_IRV.png</icon>
 
-  </svg:svg>
+    <connections>
+
+    </connections>
+
+    <aspectratio type="free"/>
+
+    <textbox x1="1" y1="0" x2="19" y2="10" align="left"/>
+
+    <svg:svg width="20" height="15">
+        <svg:rect x="0" y="10.5" width="20" height="5" style="fill: default" /> 
+    </svg:svg>
 </shape>

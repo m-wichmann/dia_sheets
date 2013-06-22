@@ -17,7 +17,6 @@
 
     <aspectratio type="fixed"/>
 
-    <!-- TODO: find out how this _really_ works! -->
     <textbox x1="10" y1="0.2" x2="20" y2="40" />
 
     <svg:svg width="30" height="20">

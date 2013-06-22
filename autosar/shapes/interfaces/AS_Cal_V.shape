@@ -19,7 +19,7 @@
 
     <svg:svg width="10" height="10">
         <svg:rect width="10" height="10" style="fill: #ffffff" /> 
-        <svg:polygon points="1,1 9,1 5,9" style="fill: #ffffff"/>
+        <svg:polygon points="2,2 8,2 5,8" style="fill: #ffffff"/>
     </svg:svg>
 
 </shape>
