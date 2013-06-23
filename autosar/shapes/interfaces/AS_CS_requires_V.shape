@@ -13,12 +13,13 @@
         <point x="10" y="0" />
         <point x="10" y="5" />
         <point x="10" y="10" />
+        <point x="5" y="5" main="yes" />
     </connections>
 
     <aspectratio type="fixed"/>
 
     <svg:svg width="10" height="10">
-        <svg:rect width="10" height="10" style="fill: #ffffff" /> 
+        <svg:rect width="10" height="10" style="fill: background" /> 
         <svg:path d="M 3 2 C 9 2 9 8 3 8" style=""/>
     </svg:svg>
 

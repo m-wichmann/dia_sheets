@@ -13,13 +13,14 @@
         <point x="10" y="0" />
         <point x="10" y="5" />
         <point x="10" y="10" />
+        <point x="5" y="5" main="yes" />
     </connections>
 
     <aspectratio type="fixed"/>
 
     <svg:svg width="10" height="10">
-        <svg:rect width="10" height="10" style="fill: #000000" /> 
-        <svg:polygon points="2,2 8,2 5,8" style="fill: #ffffff"/>
+        <svg:rect width="10" height="10" style="fill: foreground" /> 
+        <svg:polygon points="2,2 8,2 5,8" style="fill: background"/>
     </svg:svg>
 
 </shape>

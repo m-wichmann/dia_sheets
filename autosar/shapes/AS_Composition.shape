@@ -13,6 +13,7 @@
         <point x="30" y="0" />
         <point x="30" y="10" />
         <point x="30" y="20" />
+        <point x="15" y="10" main="yes" />
     </connections>
 
     <aspectratio type="fixed"/>
@@ -20,10 +21,10 @@
     <textbox x1="10" y1="0.2" x2="20" y2="40" />
 
     <svg:svg width="30" height="20">
-        <svg:rect width="30" height="20" style="fill: default" /> 
-        <svg:rect x="26" y="1" width="1" height="1" style="fill: default" />
-        <svg:rect x="25.25" y="2.5" width="1" height="1" style="fill: default" />
-        <svg:rect x="26.75" y="2.5" width="1" height="1" style="fill: default" />
+        <svg:rect width="30" height="20" style="fill: background" /> 
+        <svg:rect x="26" y="1" width="1" height="1" style="fill: background" />
+        <svg:rect x="25.25" y="2.5" width="1" height="1" style="fill: background" />
+        <svg:rect x="26.75" y="2.5" width="1" height="1" style="fill: background" />
     </svg:svg>
 
 </shape>
